@@ -1,0 +1,11 @@
+*.o
+at91adler
+at91down
+at91flash
+at91mac
+at91reg
+at91reset
+at91run
+at91up
+fram_read
+fram_write

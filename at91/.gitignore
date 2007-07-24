@@ -1,0 +1,12 @@
+*.o
+uartEcho
+*.a
+*.bin
+*.map
+total 1012
+crcCheck
+uartEcho
+usbEcho
+usbEnum
+usbFlash
+usbPeriph
